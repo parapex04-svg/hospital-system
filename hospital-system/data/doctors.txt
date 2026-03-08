@@ -1,0 +1,4 @@
+# Doctors Registry
+1|Dr. Arjun Mehta|Cardiology|9111222333|Mon-Fri 09:00-17:00
+2|Dr. Ananya Iyer|Internal Medicine|9222333444|Mon-Fri 08:00-16:00
+3|Dr. Karthik Rao|Orthopedics|9333444555|Tue-Sat 10:00-18:00
