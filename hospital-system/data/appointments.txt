@@ -1,6 +1,0 @@
-# Appointments — FORMAT: appt_id|patient_id|patient_name|doctor|date|time_slot|reason|status|duration_mins
-# NEXT_ID: 5
-1|1000|Priya Sharma|Dr. Arjun Mehta|2025-07-01|09:00|Follow-up BP check|0|30
-2|1001|Rajan Krishnan|Dr. Ananya Iyer|2025-07-01|10:30|Diabetes management review|0|45
-3|1002|Sunita Devi|Dr. Karthik Rao|2025-07-01|11:00|Asthma routine review|0|30
-4|1003|Mohammed Farouk|Dr. Arjun Mehta|2025-07-02|09:00|Cardiac follow-up|0|60

@@ -1,7 +1,0 @@
-# Visits — FORMAT: visit_id|patient_id|patient_name|doctor|visit_date|diagnosis|prescription|notes|severity_at_visit|follow_up_days
-# NEXT_ID: 6
-1|1000|Priya Sharma|Dr. Arjun Mehta|2025-06-01|Hypertension|Amlodipine 5mg daily|BP 150/95 Monitor weekly|2|7
-2|1001|Rajan Krishnan|Dr. Ananya Iyer|2025-06-03|Diabetes Type 2|Metformin 500mg BD|HbA1c 9.2 Dietary counseling|3|14
-3|1003|Mohammed Farouk|Dr. Arjun Mehta|2025-06-05|Coronary Artery Disease|Aspirin 75mg + Atorvastatin 20mg|ECG normal Stress test ordered|3|3
-4|1000|Priya Sharma|Dr. Arjun Mehta|2025-06-15|Hypertension|Amlodipine 5mg + Telmisartan 40mg|BP 140/88 Improving|2|30
-5|1002|Sunita Devi|Dr. Karthik Rao|2025-06-10|Asthma|Salbutamol inhaler + Budesonide|Spirometry normal|1|60
