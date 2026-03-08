@@ -51,7 +51,7 @@ body {
   line-height: 1.6;
   min-height: 100vh;
   display: flex;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 /* ── Scrollbar ─────────────────────────────────────────────── */
@@ -153,7 +153,6 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  overflow: hidden;
 }
 
 .topbar {
@@ -208,8 +207,8 @@ body {
 
 .content-area {
   flex: 1;
-  overflow-y: auto;
   padding: 28px;
+  padding-bottom: 60px;
 }
 
 /* ═══════════════════════════════════════════════════════════
