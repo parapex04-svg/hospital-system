@@ -1,0 +1,23 @@
+# Build artifacts
+hospital
+hospital_debug
+*.o
+*.out
+
+# WebAssembly generated files
+web/hospital.js
+web/hospital.wasm
+
+# Backup data files (auto-generated)
+data/backup_*.txt
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Python caches (if used for tooling)
+__pycache__/
+*.pyc

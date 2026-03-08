@@ -1,0 +1,11 @@
+# Hospital Patient Registry — DO NOT EDIT MANUALLY
+# FORMAT: id|name|age|gender|phone|address|disease|severity|doctor|reg_date|is_active|visit_count
+# NEXT_ID: 1008
+1000|Priya Sharma|45|F|9876543210|12 MG Road Chennai|Hypertension|2|Dr. Arjun Mehta|2025-01-15|1|2
+1001|Rajan Krishnan|67|M|8765432109|34 Anna Nagar Chennai|Diabetes Type 2|3|Dr. Ananya Iyer|2025-02-20|1|3
+1002|Sunita Devi|32|F|7654321098|56 T Nagar Chennai|Asthma|1|Dr. Karthik Rao|2025-03-01|1|1
+1003|Mohammed Farouk|55|M|6543210987|78 Adyar Chennai|Coronary Artery Disease|3|Dr. Arjun Mehta|2025-03-10|1|2
+1004|Lakshmi Menon|28|F|9543216780|90 Velachery Chennai|Migraine|1|Dr. Ananya Iyer|2025-04-05|1|1
+1005|Venkat Subramanian|72|M|9432107658|2 Mylapore Chennai|Arthritis|2|Dr. Karthik Rao|2025-04-18|1|1
+1006|Aarti Singh|38|F|8321076543|44 Kilpauk Chennai|Thyroid Disorder|1|Dr. Arjun Mehta|2025-05-02|1|0
+1007|Dinesh Kumar|50|M|7210654329|66 Nungambakkam Chennai|Hypertension|2|Dr. Ananya Iyer|2025-05-20|1|1
